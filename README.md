@@ -1,3 +1,3 @@
 # MACovidGrapher
 
-Simple program to graph covid cases overtime in Massachusetts.
+Simple program to graph covid cases over time in Massachusetts.
